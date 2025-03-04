@@ -9,4 +9,4 @@ This repository contains my solutions to various LeetCode problems. The main goa
 This repository is for personal practice, but feel free to suggest optimizations or discuss approaches!
 
 # Profile
-**https://leetcode.com/u/KingZ_0101/**
+- **https://leetcode.com/u/KingZ_0101/**
