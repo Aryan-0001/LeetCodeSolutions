@@ -4,4 +4,16 @@
 <img src="https://github.com/user-attachments/assets/9475a8f5-c0ef-4527-afdb-f8bf68b97f7d" width="400" height="400">
 <img src="https://github.com/user-attachments/assets/4622b537-2001-428e-bcb5-ad7d59952530" width="400" height="400">
 <br>
+
+ - class Diagram ⬇️
+
 <img src="https://github.com/user-attachments/assets/da5f57db-28fd-4133-8543-d0672a363983" width="400" height="400">
+<br>
+
+- Activity Diagram ⬇️
+
+<img src="https://github.com/user-attachments/assets/2d2e2f9f-84af-47e1-b76f-5a1bf8a2285d" width="400" height="400">
+
+- Sequence Diagram
+
+<img src="https://github.com/user-attachments/assets/06bb8247-c0bc-4384-b06a-cd3aa3de2880" width="400" height="400">
